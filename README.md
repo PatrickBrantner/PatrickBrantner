@@ -2,18 +2,12 @@
 
 ## 42Projects
 
-[fractol](https://github.com/PatrickBrantner/fractol)
-
-[get_next_line](https://github.com/PatrickBrantner/get_next_line)
-
-[libft](https://github.com/PatrickBrantner/libft)
-
-[printf](https://github.com/PatrickBrantner/printf)
-
-[libft_printf](https://github.com/PatrickBrantner/libft_printf)
-
-[minitalk](https://github.com/PatrickBrantner/minitalk)
-
+[fractol](https://github.com/PatrickBrantner/fractol)  
+[get_next_line](https://github.com/PatrickBrantner/get_next_line)   
+[libft](https://github.com/PatrickBrantner/libft)   
+[printf](https://github.com/PatrickBrantner/printf)  
+[libft_printf](https://github.com/PatrickBrantner/libft_printf)  
+[minitalk](https://github.com/PatrickBrantner/minitalk)  
 [push_swap](https://github.com/PatrickBrantner/push_swap)
 
 [exam](https://github.com/PatrickBrantner/42-exam)
