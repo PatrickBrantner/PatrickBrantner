@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBrantner)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 42Projects
 
 [fractol](https://github.com/PatrickBrantner/fractol)  
